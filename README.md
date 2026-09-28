@@ -1,6 +1,6 @@
 ## Hi there 👋💫 
 
-👋 Hey there! I'm Harshith, a 3rd-year CSE student at IIIT Nagpur, specializing in AI & ML.<br>I love building cool projects and exploring new tech! 🚀<br>🔭 Currently working on improving my DSA skills and developing AI/ML-powered applications.<br>💡 Always open to discussions, collaborations, and new challenges!<br><br> Feel free to check out my projects on GitHub! 😃😉
+👋 Hey there! I'm Harshith, an under-grad CSE student from IIIT Nagpur, specializing in AI & ML.<br>I love building cool projects and exploring new tech! 🚀<br>🔭 Currently working on improving my DSA skills and developing AI/ML-powered applications.<br>💡 Always open to discussions, collaborations, and new challenges!<br><br> Feel free to check out my projects on GitHub! 😃😉
 
 
 ## 🌐 Socials:
